@@ -3,6 +3,8 @@
 ## Storia
 La Draconia Coccinea, conosciuta anche con il nome Scaglia di Drago, è un fiore leggendario talmente antico che non è sicuro che sia reale o solo un mito. Si narra che un tempo crescesse nelle steppe vicino le montagne presso la Baia Corallo, nel regno di Seagale.
 
+![Draconia Coccinea (Scaglia di Drago)](https://dusteoria.github.com/images/items/draconia-coccinea.jpg)
+
 È una pianta completamente dorata e luminescente e deve il suo soprannome alla forma delle foglie che, appunto, ricorda quella delle scaglie di un drago.
 
 Proprietà magiche
